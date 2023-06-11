@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Engineering-Reversort/static/css/main.240ab20b.css",
+    "main.js": "/Engineering-Reversort/static/js/main.fb3a55e0.js",
+    "static/js/787.ff002f5d.chunk.js": "/Engineering-Reversort/static/js/787.ff002f5d.chunk.js",
+    "index.html": "/Engineering-Reversort/index.html",
+    "main.240ab20b.css.map": "/Engineering-Reversort/static/css/main.240ab20b.css.map",
+    "main.fb3a55e0.js.map": "/Engineering-Reversort/static/js/main.fb3a55e0.js.map",
+    "787.ff002f5d.chunk.js.map": "/Engineering-Reversort/static/js/787.ff002f5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240ab20b.css",
+    "static/js/main.fb3a55e0.js"
+  ]
+}
